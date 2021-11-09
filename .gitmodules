@@ -1,3 +1,7 @@
 [submodule "01-IntroducaoAoGitEAoGitHub/livro-receitas"]
 	path = 01-IntroducaoAoGitEAoGitHub/livro-receitas
 	url = git@github.com:cassiomrodrigues/livro-receitas.git
+
+[submodule "02-IntroducaoHTML5eCSS3/intro-html5-css3"]
+	path = 02-IntroducaoHTML5eCSS3/intro-html5-css3
+	url = git@github.com:cassiomrodrigues/intro-html5-css3.git
