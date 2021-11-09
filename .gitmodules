@@ -1,0 +1,3 @@
+[submodule "01-IntroducaoAoGitEAoGitHub/livro-receitas"]
+	path = 01-IntroducaoAoGitEAoGitHub/livro-receitas
+	url = git@github.com:cassiomrodrigues/livro-receitas.git
