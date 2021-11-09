@@ -10,7 +10,7 @@ Meu nome é Cássio Rodrigues. Nasci e vivo em Goiânia, Brasil. Sou casado e pa
 
 *My name is Cassio Rodrigues. I was born and live in Goiânia, Brazil. I am married and the father of a boy. I'm a musician (drummer), I really like video games and I've worked with IT infrastructure since 2008.*
 
-## _____________________________________________________________________________________________________________________________________________________________________________________
+# 
 
 ## Pastas | Projetos
 
